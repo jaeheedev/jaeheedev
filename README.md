@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm AI developer using pytorch or tensorflow.
+
+# Education
+B.S. on Yonsei University ✨
+Major in Civil and Environmental Engineering
+Minor in Computer Science
+Advanced Major in water AI Convergence Major
 
 <!--
 **jaeheedev/jaeheedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
