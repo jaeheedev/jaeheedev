@@ -1,10 +1,6 @@
 
 # Personal Information ℹ️
 ### Hi there 👋 
-I'm AI developer mainly using <img src="https://img.shields.io/badge/pyTorch-EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white" />.  
-I have developed AI services for safety at construction sites.  
-These days, I'm focusing on developing AI model structures specialized in specific fields.  
-
 I enjoy running and knitting. 🏃🏻‍♀️🧶  
 I hope to make better worlds with AI.  
 
