@@ -7,7 +7,9 @@ I hope to make better worlds with AI.
 ***
 
 # Education 🎓
-B.S. on Yonsei University ✨  
+M.S Candidate @ Yonsei University ✨ | Efficient On-device AI Systems for Mobile/Edge Platforms
+
+B.S. @ Yonsei University ✨  
 Major in Civil and Environmental Engineering  
 Minor in Computer Science  
 Advanced Major in water AI Convergence Major  
